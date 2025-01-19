@@ -58,10 +58,10 @@
 
 #### ERD
 
-![쿠키송ERD.png](assets/쿠키송ERD.png)
+![쿠키송ERD.png](https://github.com/nunsongCookie/.github/blob/main/assets/%EC%BF%A0%ED%82%A4%EC%86%A1ERD.png?raw=true)
 
 #### 아키텍처
-![쿠키송아키텍처.png](assets/쿠키송아키텍처.png)
+![쿠키송아키텍처.png](https://raw.githubusercontent.com/nunsongCookie/.github/refs/heads/main/assets/%EC%BF%A0%ED%82%A4%EC%86%A1%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98.png)
 
 ---
 
