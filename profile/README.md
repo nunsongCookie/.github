@@ -58,11 +58,11 @@
 
 #### ERD
 
-![쿠키송ERD.png]()
+![쿠키송ERD.png](assets/쿠키송ERD.png)
 
 #### 아키텍처
 
-![쿠키송아키텍처.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/b782f691-dec6-485a-a6a8-2827dfef2dd5/56e8b086-3d39-498d-beff-c74b108f16c8/%E1%84%8F%E1%85%AE%E1%84%8F%E1%85%B5%E1%84%89%E1%85%A9%E1%86%BC%E1%84%8B%E1%85%A1%E1%84%8F%E1%85%B5%E1%84%90%E1%85%A6%E1%86%A8%E1%84%8E%E1%85%A5.png)
+![쿠키송아키텍처.png](assets/쿠키송아키텍처.png)
 ---
 
 ### 기대 효과
