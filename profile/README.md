@@ -58,10 +58,10 @@
 
 #### ERD
 
-![쿠키송ERD.png](assets/쿠키송ERD.png)
+![쿠키송ERD.png](.github/assets/쿠키송ERD.png)
 
 #### 아키텍처
-![쿠키송아키텍처.png](assets/쿠키송아키텍처.png)
+![쿠키송아키텍처.png](.github/assets/쿠키송아키텍처.png)
 
 ---
 
