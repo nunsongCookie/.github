@@ -15,6 +15,7 @@
 ### Team Member
 
 | 최은소 | 안효민 | 김지수 | 박채연 | 김소연 |
+| :---: | :---: | :---: | :---: | :---: |
 | PL, 디자인, FE, Infra | BE | BE | 디자인, Infra | Infra |
 | <img src="https://avatars.githubusercontent.com/u/93801149?v=4" alt="최은소 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/98948416?v=4" alt="안효민 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/86948824?v=4" alt="김지수 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/61193581?v=4" alt="박채연 프로필" width="180" height="180"> | <img src="https://avatars.githubusercontent.com/u/61140818?v=4" alt="김소연 프로필" width="180" height="180"> |
 | [esc-beep](https://github.com/esc-beep) | [HyominAn0401](https://github.com/HyominAn0401) | [Jixoo-IT](https://github.com/Jixoo-IT) | [Yeon-chae](https://github.com/Yeon-chae) | [thdusqpf](https://github.com/thdusqpf) |
